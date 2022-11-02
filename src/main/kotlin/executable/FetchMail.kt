@@ -21,9 +21,9 @@ import java.io.FileInputStream
 import java.io.FileOutputStream
 import java.io.IOException
 import java.util.*
-import javax.mail.Folder
-import javax.mail.Message
-import javax.mail.Session
+import jakarta.mail.Folder
+import jakarta.mail.Message
+import jakarta.mail.Session
 
 private val FILTER_STRING = "##- Please type your reply above this line -##"
 

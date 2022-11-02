@@ -18,7 +18,7 @@ package executable
 
 import quoteParser.*
 import java.io.*
-import javax.mail.internet.MimeMessage
+import jakarta.mail.internet.MimeMessage
 
 private val pathEmails = "C:${File.separator}YT${File.separator}"
 

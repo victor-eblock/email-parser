@@ -20,11 +20,11 @@ import java.io.File
 import java.io.FileInputStream
 import java.io.InputStream
 import java.util.Properties
-import javax.mail.Session
-import javax.mail.internet.MimeMessage
-import javax.mail.internet.MimeMultipart
-import javax.mail.internet.MimePart
-import javax.mail.internet.ParseException
+import jakarta.mail.Session
+import jakarta.mail.internet.MimeMessage
+import jakarta.mail.internet.MimeMultipart
+import jakarta.mail.internet.MimePart
+import jakarta.mail.internet.ParseException
 
 /**
  * Check weather given message contains *In-Reply-To* header or 

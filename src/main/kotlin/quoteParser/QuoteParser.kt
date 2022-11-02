@@ -18,7 +18,7 @@ package quoteParser
 
 import quoteParser.features.*
 import java.io.File
-import javax.mail.internet.MimeMessage
+import jakarta.mail.internet.MimeMessage
 
 private enum class Relation() {
     HEADER_LINES_FIRST,

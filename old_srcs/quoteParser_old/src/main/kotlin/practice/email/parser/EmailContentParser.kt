@@ -1,6 +1,6 @@
 package practice.email.parser
 
-import javax.mail.internet.ParseException
+import jakarta.mail.internet.ParseException
 
 enum class ContentParseMode {
     /**
